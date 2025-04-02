@@ -19,20 +19,11 @@ Excel (for light data cleaning/prep)
 - Determine which factors (price, cuisine, location) most influence restaurant ratings.
 - Create a visually intuitive dashboard for stakeholders to explore trends and performance.
 
-## Screenshots
--
--
--
--
--
--
--
-
 ## Status
 Completed – [February 2025]
 
 ## Live Dashboard
-- 
+- https://public.tableau.com/app/profile/fernanda.shoup/viz/Sprint4Project-FSHOUP/ProfitCentersLossMakers
 
 ## Author
 Fernanda Shoup
